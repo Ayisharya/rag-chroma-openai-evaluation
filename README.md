@@ -1,4 +1,4 @@
-This project is a simple Retrieval-Augmented Generation (RAG) pipeline built inside a Colab notebook. It loads a PDF, chunks the text, generates embeddings, stores them in ChromaDB, answers questions using OpenAI GPT-4o-mini, and evaluates the system using RAGAS with a free HuggingFace model.
+This project is a simple Retrieval-Augmented Generation (RAG) pipeline built inside a Colab notebook. It loads a PDF, chunks the text, generates embeddings, stores them in ChromaDB, answers questions using OpenAI GPT-4o-mini, and evaluates the system using RAGAS.
 
 ***Features***
 
