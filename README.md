@@ -25,3 +25,5 @@ Enter your OpenAI API key
 Run all cells in order
 
 Ask questions + view evaluation scores
+
+**A rag.py file is also added that contains the same code as of ipynb just for user benefits**
